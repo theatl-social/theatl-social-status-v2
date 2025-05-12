@@ -166,19 +166,19 @@
     "url": "https://yall.theATL.social",
     "icon": "https://icons.duckduckgo.com/ip3/yall.theatl.social.ico",
     "slug": "the-atl-social-lemmy-site",
-    "status": "down",
-    "uptime": "98.61%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "98.61%",
-    "uptimeYear": "98.61%",
-    "time": 461,
-    "timeDay": 461,
-    "timeWeek": 461,
-    "timeMonth": 461,
-    "timeYear": 461,
+    "status": "up",
+    "uptime": "93.33%",
+    "uptimeDay": "93.33%",
+    "uptimeWeek": "93.33%",
+    "uptimeMonth": "93.33%",
+    "uptimeYear": "93.33%",
+    "time": 3641,
+    "timeDay": 3641,
+    "timeWeek": 3641,
+    "timeMonth": 3641,
+    "timeYear": 3641,
     "dailyMinutesDown": {
-      "2025-05-12": 5
+      "2025-05-12": 27
     }
   },
   {
