@@ -22,7 +22,7 @@ sites:
   - name: theATL.social (Phanpy Site)
     url: https://phanpy.theATL.social
   - name: theATL.social (Lemmy Site)
-    url: https://lemmy.theATL.social
+    url: https://yall.theATL.social
   - name: theATL.social (Lemmy Media Storage)
     url: https://pictrs-objstore.theatl.social/000/4bcb5f4f-cedb-4ea2-9180-a5433624d58d
   - name: theATL.social (Sendgrid Email Provider Service)
