@@ -167,18 +167,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/yall.theatl.social.ico",
     "slug": "the-atl-social-lemmy-site",
     "status": "up",
-    "uptime": "97.37%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "97.37%",
-    "uptimeYear": "97.37%",
+    "uptime": "97.57%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "97.57%",
+    "uptimeYear": "97.57%",
     "time": 8522,
     "timeDay": 8522,
     "timeWeek": 8522,
     "timeMonth": 8522,
     "timeYear": 8522,
     "dailyMinutesDown": {
-      "2025-05-12": 24
+      "2025-05-12": 22
     }
   },
   {
