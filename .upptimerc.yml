@@ -1,31 +1,57 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: theatl-social # Your GitHub organization or username, where this repository lives
+repo: theatl-social-status-v2 # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: theATL.social (Mastodon Web/API)
+    url: https://theATL.social/health
+  - name: theATL.social (Mastodon Streaming)
+    url: https://theATL.social/api/v1/streaming/health
+  - name: theATL.social (Mastodon Static Assets)
+    url: https://mastodon-static.theatl.social/sw.js
+  - name: theATL.social Public Timeline
+    url: https://theatl.social/api/v1/timelines/public?local=true&only_media=false
+  - name: theATL.social (Mastodon Media Proxy)
+    url: https://o1.theatl.social/theatlsocial-logo-output.png
+  - name: theATL.social (Bluesky PDS)
+    url: https://theatl.social/xrpc/_health
+  - name: theATL.social Public Marketing Site
+    url: https://join.theATL.social
+  - name: theATL.social Members Site
+    url: https://members.theATL.social/login
+  - name: theATL.social (Phanpy Site)
+    url: https://phanpy.theATL.social
+  - name: theATL.social (Lemmy Site)
+    url: https://lemmy.theATL.social
+  - name: theATL.social (Lemmy Media Storage)
+    url: https://pictrs-objstore.theatl.social/000/4bcb5f4f-cedb-4ea2-9180-a5433624d58d
+  - name: theATL.social (Sendgrid Email Provider Service)
+    url: https://sendgrid-status.theatl.social
+
+
+  # - name: Google
+  #   url: https://www.google.com
+  # - name: Wikipedia
+  #   url: https://en.wikipedia.org
+  # - name: Hacker News
+  #   url: https://news.ycombinator.com
+  # - name: Test Broken Site
+  #   url: https://thissitedoesnotexist.koj.co
+  # - name: IPv6 test
+  #   url: forwardemail.net
+  #   port: 80
+  #   check: "tcp-ping"
+  #   ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.theATL.social
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "status.theATL.social is provided by **Upptime**, the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: Status updates are continuously updated. For questions or comments, refer to the generated incident, or email [admin@theatl.social](mailto:admin@theatl.social)
   navbar:
     - title: Status
       href: /
