@@ -167,11 +167,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/yall.theatl.social.ico",
     "slug": "the-atl-social-lemmy-site",
     "status": "up",
-    "uptime": "97.95%",
+    "uptime": "97.98%",
     "uptimeDay": "97.31%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "97.95%",
-    "uptimeYear": "97.95%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "97.98%",
     "time": 4452,
     "timeDay": 903,
     "timeWeek": 4452,
@@ -205,17 +205,19 @@
     "url": "https://sendgrid-status.theatl.social",
     "icon": "https://icons.duckduckgo.com/ip3/sendgrid-status.theatl.social.ico",
     "slug": "the-atl-social-sendgrid-email-provider-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 327,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
-    "dailyMinutesDown": {}
+    "time": 296,
+    "timeDay": 393,
+    "timeWeek": 296,
+    "timeMonth": 296,
+    "timeYear": 296,
+    "dailyMinutesDown": {
+      "2025-05-14": 0
+    }
   }
 ]
