@@ -30,7 +30,7 @@ sites:
   - name: marta.fail (MARTA Alert Status Updates)
     url: https://marta.fail
   - name: alerts.marta.fail (MARTA Alerts Bluesky Account)
-    url: https://alerta.marta.fail
+    url: https://alerts.marta.fail
   - name: MARTA Fail PDS Server
     url: https://marta.fail/xrpc/_health
 
