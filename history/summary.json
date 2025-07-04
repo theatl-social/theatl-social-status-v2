@@ -246,18 +246,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/marta.fail.ico",
     "slug": "marta-fail-marta-alert-status-updates",
     "status": "down",
-    "uptime": "61.33%",
-    "uptimeDay": "61.33%",
-    "uptimeWeek": "61.33%",
-    "uptimeMonth": "61.33%",
-    "uptimeYear": "61.33%",
+    "uptime": "21.40%",
+    "uptimeDay": "21.40%",
+    "uptimeWeek": "21.40%",
+    "uptimeMonth": "21.40%",
+    "uptimeYear": "21.40%",
     "time": 15955,
     "timeDay": 15955,
     "timeWeek": 15955,
     "timeMonth": 15955,
     "timeYear": 15955,
     "dailyMinutesDown": {
-      "2025-07-04": 0
+      "2025-07-04": 3
     }
   },
   {
@@ -266,18 +266,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/alerta.marta.fail.ico",
     "slug": "alerts-marta-fail-marta-alerts-bluesky-account",
     "status": "down",
-    "uptime": "2.92%",
-    "uptimeDay": "2.92%",
-    "uptimeWeek": "2.92%",
-    "uptimeMonth": "2.92%",
-    "uptimeYear": "2.92%",
+    "uptime": "0.37%",
+    "uptimeDay": "0.37%",
+    "uptimeWeek": "0.37%",
+    "uptimeMonth": "0.37%",
+    "uptimeYear": "0.37%",
     "time": 190,
     "timeDay": 190,
     "timeWeek": 190,
     "timeMonth": 190,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-07-04": 0
+      "2025-07-04": 3
     }
   },
   {
@@ -285,17 +285,19 @@
     "url": "https://marta.fail/xrpc/_health",
     "icon": "https://icons.duckduckgo.com/ip3/marta.fail.ico",
     "slug": "marta-fail-pds-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 114,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "94.26%",
+    "uptimeDay": "94.26%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "94.26%",
+    "uptimeYear": "94.26%",
+    "time": 71,
+    "timeDay": 71,
+    "timeWeek": 71,
+    "timeMonth": 71,
+    "timeYear": 71,
+    "dailyMinutesDown": {
+      "2025-07-04": 0
+    }
   }
 ]
