@@ -27,6 +27,12 @@ sites:
     url: https://pictrs-objstore.theatl.social/000/4bcb5f4f-cedb-4ea2-9180-a5433624d58d
   - name: theATL.social (Sendgrid Email Provider Service)
     url: https://sendgrid-status.theatl.social
+  - name: marta.fail (MARTA Alert Status Updates)
+    url: https://marta.fail
+  - name: alerts.marta.fail (MARTA Alerts Bluesky Account)
+    url: https://alerta.marta.fail
+  - name: MARTA Fail PDS Server
+    url: https://marta.fail/xrpc/_health
 
 
   # - name: Google
