@@ -264,19 +264,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/alerts.marta.fail.ico",
     "slug": "alerts-marta-fail-marta-alerts-bluesky-account",
     "status": "up",
-    "uptime": "2.39%",
-    "uptimeDay": "2.39%",
-    "uptimeWeek": "2.39%",
-    "uptimeMonth": "2.39%",
-    "uptimeYear": "2.39%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 489,
     "timeDay": 489,
     "timeWeek": 489,
     "timeMonth": 489,
     "timeYear": 489,
-    "dailyMinutesDown": {
-      "2025-07-04": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MARTA Fail PDS Server",
