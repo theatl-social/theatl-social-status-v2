@@ -1,7 +1,7 @@
 url: https://theATL.social/api/v1/streaming/health
-status: up
-code: 200
-responseTime: 40
-lastUpdated: 2025-07-09T23:19:41.432Z
+status: down
+code: 503
+responseTime: 51
+lastUpdated: 2025-07-10T18:45:01.715Z
 startTime: 2025-05-12T00:10:52.475Z
 generator: Upptime <https://github.com/upptime/upptime>
