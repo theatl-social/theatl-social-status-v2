@@ -33,7 +33,8 @@ sites:
     url: https://alerts.marta.fail
   - name: MARTA Fail PDS Server
     url: https://marta.fail/xrpc/_health
-
+  - name: PeachPie PyFedi Server
+    url: https://peachpie.theatl.social/health
 
   # - name: Google
   #   url: https://www.google.com
