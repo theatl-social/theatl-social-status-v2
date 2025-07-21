@@ -98,7 +98,7 @@
     "slug": "the-atl-social-bluesky-pds",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.27%",
+    "uptimeDay": "98.25%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -310,17 +310,19 @@
     "url": "https://peachpie.theatl.social/health",
     "icon": "https://icons.duckduckgo.com/ip3/peachpie.theatl.social.ico",
     "slug": "peach-pie-py-fedi-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 303,
-    "timeWeek": 303,
-    "timeMonth": 303,
-    "timeYear": 303,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 385,
+    "timeDay": 385,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 385,
+    "dailyMinutesDown": {
+      "2025-07-21": 0
+    }
   }
 ]
