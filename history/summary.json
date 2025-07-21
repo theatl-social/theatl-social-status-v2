@@ -96,19 +96,19 @@
     "url": "https://theatl.social/xrpc/_health",
     "icon": "https://icons.duckduckgo.com/ip3/theatl.social.ico",
     "slug": "the-atl-social-bluesky-pds",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 61,
-    "timeDay": 94,
-    "timeWeek": 72,
-    "timeMonth": 64,
-    "timeYear": 61,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 60,
+    "timeDay": 72,
+    "timeWeek": 67,
+    "timeMonth": 63,
+    "timeYear": 60,
     "dailyMinutesDown": {
-      "2025-07-21": 0
+      "2025-07-21": 25
     }
   },
   {
