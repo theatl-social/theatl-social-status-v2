@@ -13,7 +13,7 @@
     "time": 408,
     "timeDay": 127,
     "timeWeek": 251,
-    "timeMonth": 372,
+    "timeMonth": 373,
     "timeYear": 408,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 57,
     "timeDay": 31,
     "timeWeek": 53,
-    "timeMonth": 59,
+    "timeMonth": 58,
     "timeYear": 57,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 445,
     "timeDay": 337,
     "timeWeek": 267,
-    "timeMonth": 278,
+    "timeMonth": 288,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2025-06-12": 37
@@ -69,7 +69,7 @@
     "time": 343,
     "timeDay": 173,
     "timeWeek": 285,
-    "timeMonth": 294,
+    "timeMonth": 292,
     "timeYear": 343,
     "dailyMinutesDown": {}
   },
@@ -87,7 +87,7 @@
     "time": 256,
     "timeDay": 81,
     "timeWeek": 231,
-    "timeMonth": 260,
+    "timeMonth": 265,
     "timeYear": 256,
     "dailyMinutesDown": {}
   },
@@ -105,7 +105,7 @@
     "time": 92,
     "timeDay": 35,
     "timeWeek": 52,
-    "timeMonth": 141,
+    "timeMonth": 143,
     "timeYear": 92,
     "dailyMinutesDown": {
       "2025-07-27": 57,
@@ -126,7 +126,7 @@
     "time": 355,
     "timeDay": 249,
     "timeWeek": 346,
-    "timeMonth": 368,
+    "timeMonth": 367,
     "timeYear": 355,
     "dailyMinutesDown": {
       "2025-07-25": 17
@@ -146,7 +146,7 @@
     "time": 504,
     "timeDay": 277,
     "timeWeek": 440,
-    "timeMonth": 478,
+    "timeMonth": 469,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2025-07-25": 17
@@ -166,7 +166,7 @@
     "time": 190,
     "timeDay": 82,
     "timeWeek": 119,
-    "timeMonth": 172,
+    "timeMonth": 177,
     "timeYear": 190,
     "dailyMinutesDown": {}
   },
@@ -176,15 +176,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/yall.theatl.social.ico",
     "slug": "the-atl-social-lemmy-site",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.23%",
     "time": 1280,
     "timeDay": 711,
     "timeWeek": 304,
-    "timeMonth": 354,
+    "timeMonth": 344,
     "timeYear": 1280,
     "dailyMinutesDown": {
       "2025-07-01": 34,
@@ -216,7 +216,7 @@
     "time": 293,
     "timeDay": 273,
     "timeWeek": 328,
-    "timeMonth": 302,
+    "timeMonth": 308,
     "timeYear": 293,
     "dailyMinutesDown": {}
   },
@@ -225,19 +225,19 @@
     "url": "https://sendgrid-status.theatl.social",
     "icon": "https://icons.duckduckgo.com/ip3/sendgrid-status.theatl.social.ico",
     "slug": "the-atl-social-sendgrid-email-provider-service",
-    "status": "down",
-    "uptime": "96.20%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "76.18%",
-    "uptimeMonth": "91.09%",
-    "uptimeYear": "96.20%",
-    "time": 397,
-    "timeDay": 252,
-    "timeWeek": 473,
-    "timeMonth": 402,
-    "timeYear": 397,
+    "status": "up",
+    "uptime": "95.44%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "66.69%",
+    "uptimeMonth": "88.91%",
+    "uptimeYear": "95.44%",
+    "time": 396,
+    "timeDay": 284,
+    "timeWeek": 459,
+    "timeMonth": 406,
+    "timeYear": 396,
     "dailyMinutesDown": {
-      "2025-08-04": 85,
+      "2025-08-04": 1041,
       "2025-08-03": 1440,
       "2025-08-02": 40,
       "2025-08-01": 760,
@@ -271,7 +271,7 @@
     "time": 1043,
     "timeDay": 417,
     "timeWeek": 607,
-    "timeMonth": 1043,
+    "timeMonth": 636,
     "timeYear": 1043,
     "dailyMinutesDown": {
       "2025-07-11": 17
@@ -291,7 +291,7 @@
     "time": 847,
     "timeDay": 580,
     "timeWeek": 610,
-    "timeMonth": 847,
+    "timeMonth": 867,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2025-07-11": 20
@@ -311,7 +311,7 @@
     "time": 247,
     "timeDay": 35,
     "timeWeek": 54,
-    "timeMonth": 247,
+    "timeMonth": 267,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2025-07-11": 20
@@ -323,11 +323,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/peachpie.theatl.social.ico",
     "slug": "peach-pie-py-fedi-server",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "99.09%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
     "time": 272,
     "timeDay": 127,
     "timeWeek": 215,
