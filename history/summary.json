@@ -117,10 +117,10 @@
     "url": "https://join.theATL.social",
     "icon": "https://icons.duckduckgo.com/ip3/join.theatl.social.ico",
     "slug": "the-atl-social-public-marketing-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 385,
@@ -129,6 +129,7 @@
     "timeMonth": 469,
     "timeYear": 385,
     "dailyMinutesDown": {
+      "2025-08-30": 2,
       "2025-07-25": 17
     }
   },
@@ -137,9 +138,9 @@
     "url": "https://members.theATL.social/login",
     "icon": "https://icons.duckduckgo.com/ip3/members.theatl.social.ico",
     "slug": "the-atl-social-members-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -149,6 +150,7 @@
     "timeMonth": 734,
     "timeYear": 562,
     "dailyMinutesDown": {
+      "2025-08-30": 0,
       "2025-07-25": 17
     }
   },
