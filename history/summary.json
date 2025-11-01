@@ -4,9 +4,9 @@
     "url": "https://theATL.social/health",
     "icon": "https://icons.duckduckgo.com/ip3/theatl.social.ico",
     "slug": "the-atl-social-mastodon-web-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 365,
     "timeMonth": 396,
     "timeYear": 404,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-01": 0
+    }
   },
   {
     "name": "theATL.social (Mastodon Streaming)",
@@ -232,11 +234,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sendgrid-status.theatl.social.ico",
     "slug": "the-atl-social-sendgrid-email-provider-service",
     "status": "up",
-    "uptime": "96.26%",
+    "uptime": "96.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "98.34%",
-    "uptimeYear": "96.26%",
+    "uptimeYear": "96.27%",
     "time": 522,
     "timeDay": 469,
     "timeWeek": 458,
