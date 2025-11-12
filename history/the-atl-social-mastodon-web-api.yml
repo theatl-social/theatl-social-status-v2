@@ -1,7 +1,7 @@
 url: https://theATL.social/health
-status: up
-code: 200
-responseTime: 495
-lastUpdated: 2025-11-11T23:18:07.285Z
+status: down
+code: 502
+responseTime: 4739
+lastUpdated: 2025-11-12T16:51:34.282Z
 startTime: 2025-05-12T00:10:51.347Z
 generator: Upptime <https://github.com/upptime/upptime>
