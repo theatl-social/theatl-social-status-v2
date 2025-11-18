@@ -1,7 +1,7 @@
 url: https://sendgrid-status.theatl.social
-status: down
-code: 500
-responseTime: 440
-lastUpdated: 2025-11-18T14:37:33.011Z
+status: up
+code: 200
+responseTime: 342
+lastUpdated: 2025-11-18T18:30:34.848Z
 startTime: 2025-05-12T00:11:02.281Z
 generator: Upptime <https://github.com/upptime/upptime>
