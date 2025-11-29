@@ -1,7 +1,7 @@
 url: https://theatl.social/api/v1/timelines/public?local=true&only_media=false
 status: up
 code: 200
-responseTime: 228
-lastUpdated: 2025-11-28T23:18:35.588Z
+responseTime: 211
+lastUpdated: 2025-11-29T23:18:22.013Z
 startTime: 2025-05-12T00:10:53.647Z
 generator: Upptime <https://github.com/upptime/upptime>
