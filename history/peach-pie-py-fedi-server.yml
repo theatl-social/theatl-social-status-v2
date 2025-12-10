@@ -1,7 +1,7 @@
 url: https://peachpie.theatl.social/health
-status: down
-code: 503
-responseTime: 173
-lastUpdated: 2025-12-10T01:43:09.634Z
+status: up
+code: 200
+responseTime: 1008
+lastUpdated: 2025-12-10T03:13:05.508Z
 startTime: 2025-07-21T12:48:36.706Z
 generator: Upptime <https://github.com/upptime/upptime>
