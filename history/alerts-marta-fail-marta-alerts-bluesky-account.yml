@@ -1,7 +1,7 @@
 url: https://alerts.marta.fail
-status: up
-code: 200
-responseTime: 731
-lastUpdated: 2025-12-19T03:46:07.053Z
+status: down
+code: 503
+responseTime: 3518
+lastUpdated: 2025-12-19T05:32:02.168Z
 startTime: 2025-07-04T15:28:48.189Z
 generator: Upptime <https://github.com/upptime/upptime>
