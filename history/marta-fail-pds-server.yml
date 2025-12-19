@@ -1,7 +1,7 @@
 url: https://marta.fail/xrpc/_health
-status: down
-code: 503
-responseTime: 3094
-lastUpdated: 2025-12-18T23:44:33.099Z
+status: up
+code: 200
+responseTime: 82
+lastUpdated: 2025-12-19T03:46:11.275Z
 startTime: 2025-07-04T15:28:51.242Z
 generator: Upptime <https://github.com/upptime/upptime>
