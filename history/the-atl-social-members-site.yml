@@ -1,7 +1,7 @@
 url: https://members.theATL.social/login
-status: up
-code: 200
-responseTime: 304
-lastUpdated: 2026-02-05T23:23:32.274Z
+status: down
+code: 502
+responseTime: 397
+lastUpdated: 2026-02-06T17:08:16.626Z
 startTime: 2025-05-12T00:10:56.936Z
 generator: Upptime <https://github.com/upptime/upptime>
