@@ -4,7 +4,7 @@ repo: theatl-social-status-v2 # The name of this repository
 
 sites:
   - name: theATL.social (Mastodon Web/API)
-    url: https://theATL.social/health
+    url: https://theATL.social/explore
   - name: theATL.social (Mastodon Streaming)
     url: https://theATL.social/api/v1/streaming/health
   - name: theATL.social (Mastodon Static Assets)
@@ -18,9 +18,7 @@ sites:
   - name: theATL.social Public Marketing Site
     url: https://join.theATL.social
   - name: theATL.social Members Site
-    url: https://members.theATL.social/login
-  - name: theATL.social (Phanpy Site)
-    url: https://phanpy.theATL.social
+    url: https://members.theATL.social
   - name: theATL.social (Lemmy Site)
     url: https://yall.theATL.social
   - name: theATL.social (Lemmy Media Storage)
