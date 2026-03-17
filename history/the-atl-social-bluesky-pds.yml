@@ -1,7 +1,7 @@
 url: https://theatl.social/xrpc/_health
-status: down
-code: 503
-responseTime: 3086
-lastUpdated: 2026-03-17T15:32:46.640Z
+status: up
+code: 200
+responseTime: 59
+lastUpdated: 2026-03-17T16:42:13.861Z
 startTime: 2025-05-12T00:10:55.354Z
 generator: Upptime <https://github.com/upptime/upptime>
